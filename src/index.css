@@ -18,26 +18,15 @@
 
 @layer components {
   .btn-primary {
-    @apply bg-coral-500 hover:bg-coral-600 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl;
+    @apply bg-coral-500 hover:bg-coral-600 text-white font-semibold py-4 px-8 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl;
   }
   
   .btn-secondary {
-    @apply bg-white hover:bg-gray-50 text-ocean-500 font-semibold py-3 px-6 rounded-lg border-2 border-ocean-500 transition-all duration-300;
+    @apply bg-white hover:bg-gray-50 text-ocean-500 font-semibold py-4 px-8 rounded-full border-2 border-ocean-500 transition-all duration-300;
   }
-  
-  .btn-whatsapp {
-    @apply bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-300 flex items-center justify-center gap-2;
-  }
-  
-  .card {
-    @apply bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300;
-  }
-  
-  .section {
-    @apply py-16 md:py-24 px-4 md:px-8;
-  }
-  
-  .container-custom {
-    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
-  }
+}
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-padding-top: 80px;
 }
