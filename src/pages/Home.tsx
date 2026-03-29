@@ -18,7 +18,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-r from-ocean-500/90 to-ocean-500/70 z-10" />
           <img
-            src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80"
+            src="/images/hero-playa.jpg"
             alt="Surf Shack - Playa Caracol"
             className="w-full h-full object-cover"
           />

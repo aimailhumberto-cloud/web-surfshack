@@ -176,32 +176,32 @@ export const FAQS = [
 
 export const GALLERY = [
   {
-    src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+    src: "/images/hero-playa.jpg",
     alt: "Playa Caracol - Vista principal",
     caption: "Playa",
   },
   {
-    src: "https://images.unsplash.com/photo-1530755414729-7b7e6c1bb219?w=800&q=80",
+    src: "/images/piscina.jpg",
     alt: "Piscina Surf Shack",
     caption: "Piscina",
   },
   {
-    src: "https://images.unsplash.com/photo-1506905925346-21b224c1de6d?w=800&q=80",
+    src: "/images/area-social.jpg",
     alt: "Área social",
     caption: "Área Social",
   },
   {
-    src: "https://images.unsplash.com/photo-1502680327475-0a5b1f5c77db?w=800&q=80",
+    src: "/images/actividades.jpg",
     alt: "Actividades",
     caption: "Actividades",
   },
   {
-    src: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+    src: "/images/comunidad.jpg",
     alt: "Comunidad Surf Shack",
     caption: "Comunidad",
   },
   {
-    src: "https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?w=800&q=80",
+    src: "/images/atardecer.jpg",
     alt: "Atardeceres",
     caption: "Atardeceres",
   },
