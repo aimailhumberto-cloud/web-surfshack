@@ -176,32 +176,32 @@ export const FAQS = [
 
 export const GALLERY = [
   {
-    src: "https://drive.google.com/uc?export=view&id=1lzO6Dx5XfbAaxc_7KOLHcchGH7u-tJFS",
+    src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
     alt: "Playa Caracol - Vista principal",
     caption: "Playa",
   },
   {
-    src: "https://drive.google.com/uc?export=view&id=1YJ3jiZl2AVLJKZOTdy4UnypeutNDvAld",
+    src: "https://images.unsplash.com/photo-1530755414729-7b7e6c1bb219?w=800&q=80",
     alt: "Piscina Surf Shack",
     caption: "Piscina",
   },
   {
-    src: "https://drive.google.com/uc?export=view&id=1UZ-wdb4Fq4zIZxU7TYa_Atm2deySvHbb",
+    src: "https://images.unsplash.com/photo-1506905925346-21b224c1de6d?w=800&q=80",
     alt: "Área social",
     caption: "Área Social",
   },
   {
-    src: "https://drive.google.com/uc?export=view&id=1qWa3PkBOS5hbXld05P5l-7cvM-_2ZObE",
+    src: "https://images.unsplash.com/photo-1502680327475-0a5b1f5c77db?w=800&q=80",
     alt: "Actividades",
     caption: "Actividades",
   },
   {
-    src: "https://drive.google.com/uc?export=view&id=1oCrZPQcMOrOH7mPjNNIbltPLF_512Y7X",
+    src: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
     alt: "Comunidad Surf Shack",
     caption: "Comunidad",
   },
   {
-    src: "https://drive.google.com/uc?export=view&id=1hzo4GZb8VHmtOlfKMYjiP9UgaRGj2Jlx",
+    src: "https://images.unsplash.com/photo-1414609245224-afa02bfb3fda?w=800&q=80",
     alt: "Atardeceres",
     caption: "Atardeceres",
   },
